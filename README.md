@@ -31,6 +31,20 @@ It watches YouTube channels continuously. It reads crowd emotion from live chat.
 
 ---
 
+## Screenshots
+
+<div align="center">
+
+![TipMind Dashboard](assets/Screenshot%202026-03-22%20at%2022.59.14.png)
+*Live dashboard — agent settings, active swarms, real-time feed*
+
+![TipMind Transactions](assets/Screenshot%202026-03-22%20at%2022.59.30.png)
+*Recent transactions — on-chain tips with tx hashes, top creators leaderboard*
+
+</div>
+
+---
+
 ## Live Demo
 
 ```
