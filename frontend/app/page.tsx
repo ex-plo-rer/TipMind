@@ -413,7 +413,7 @@ export default function Dashboard() {
                         <td style={{ padding: "7px 10px", color: "#94a3b8", fontSize: 11 }}>{tx.trigger_type}</td>
                         <td style={{ padding: "7px 10px" }}>
                           {tx.tx_hash
-                            ? <a href={`https://etherscan.io/tx/${tx.tx_hash}`} target="_blank" rel="noreferrer" style={{ color: "#00c9ff", fontFamily: "monospace", fontSize: 11 }}>{truncate(tx.tx_hash, 6)}</a>
+                            ? <a href={`https://amoy.polygonscan.com/tx/${tx.tx_hash}`} target="_blank" rel="noreferrer" style={{ color: "#00c9ff", fontFamily: "monospace", fontSize: 11 }}>{truncate(tx.tx_hash, 6)}</a>
                             : <span style={{ color: "#475569" }}>—</span>}
                         </td>
                         <td style={{ padding: "7px 10px" }}>
